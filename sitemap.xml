@@ -1,250 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://shah-rohan.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://shah-rohan.github.io/publication-type/2/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shah-rohan.github.io/publication_types/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shah-rohan.github.io/publication/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shah-rohan.github.io/publication/sequence-deeper-without-sequencing-more/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shah-rohan.github.io/publication-type/3/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/publication/richter-h3k79me2/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shah-rohan.github.io/publication_types/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shah-rohan.github.io/publication/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shah-rohan.github.io/publication-type/2/</loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/publication/native-internally-calibrated-chip-nat-protoc/</loc>
     <lastmod>2019-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/publication/examining-the-roles-of-h3k4-methylation-states-with-systematically-characterized-antibodies/</loc>
     <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/publication/chromatin-enriched-lncrnas-werner/</loc>
     <lastmod>2017-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://shah-rohan.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
